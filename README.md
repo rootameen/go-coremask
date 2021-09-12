@@ -12,7 +12,7 @@ Currently, two modes are supported:
 * `detect` as a helper to collect info as inputs for `generate` command
 
 
-# Examples:
+## Examples:
 
 ```
 // generate coremask for a 44 cores system with hyperthreading on (default)
